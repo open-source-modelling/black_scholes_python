@@ -1,10 +1,10 @@
 <h1 align="center" style="border-botom: none">
   <b>
-    🐍 Black-Sholes model for simulating the price of a stock🐍     
+    🐍 Black-Scholes model for simulating the price of a stock🐍     
   </b>
 </h1>
 
-Black Sholes model is one of oldest models for simulating the stock market.
+Black Scholes model is one of oldest models for simulating the stock market.
 
 ## Problem
 
@@ -16,7 +16,7 @@ One of the oldest and simplest models developed is the [Black-Sholes-Merton](htt
 
 ### Input
 
-Black Sholes simulation:
+Black Scholes simulation:
  - `S0`    ... integer, specifying the initial value of the underlying asset.
  - `mu`    ... float, specifying the drift rate of the underlying asset.
  - `sigma` ... float, standard deviation of the underlying asset's return.
